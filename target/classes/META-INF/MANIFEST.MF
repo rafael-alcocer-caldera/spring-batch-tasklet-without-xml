@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-batch-tasklet-with-xml
+Implementation-Version: 1.0
+Built-By: rafael.alcocer
+Implementation-Vendor-Id: rafael.alcocer.caldera
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-batch-tasklet-without-xml
+Created-By: Maven Integration for Eclipse
+
