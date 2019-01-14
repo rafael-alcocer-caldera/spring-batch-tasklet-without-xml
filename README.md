@@ -18,7 +18,13 @@ I wanted to have an easy example about Spring Batch using Tasklet Oriented Proce
 
 ## Tests
 
-In Eclipse use: Run As -> Spring Boot App
+In Eclipse use: 
+
+Run As -> Spring Boot App
+
+or
+
+Run As -> Java Application
 
 ## Output Log Example
 
